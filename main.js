@@ -1,4 +1,4 @@
-#!/usr/bin/env/node
+
 var skill = /** @class */ (function () {
     function skill(elementId, buttonId) {
         this.element = document.getElementById(elementId);
