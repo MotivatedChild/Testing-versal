@@ -1,0 +1,7 @@
+{
+    "version": 2,
+    "routes": [
+      { "source": "/", "destination": "/main.html", "statusCode": 301 }
+    ]
+  }
+  
